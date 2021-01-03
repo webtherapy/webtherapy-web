@@ -50,7 +50,7 @@ const Features = (props) => {
                             </div>
                         </Col>
                         <Col md="6" className="ml-auto">
-                            <FeatureBox num="02" title="Find a Tutor" features={features2} />
+                            <FeatureBox num="02" title="Find a Therapist" features={features2} />
                         </Col>
                     </Row>
 

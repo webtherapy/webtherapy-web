@@ -39,14 +39,14 @@ const Header = (props) => {
 
                     <div className="d-flex">
                         <div className="d-lg-inline-block ml-1">
-                            <Link to="/find-tutors" className="btn header-item waves-effect">
-                                Find a Tutor
+                            <Link to="/find-therapists" className="btn header-item waves-effect">
+                                Find your therapist
                             </Link>
                         </div>
 
                         <div className="d-none d-lg-inline-block ml-1">
                             <Link to="/edit-profile" className="btn header-item waves-effect">
-                                Become a Tutor
+                                Become a therapist
                             </Link>
                         </div>
 

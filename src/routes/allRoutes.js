@@ -1,7 +1,7 @@
 import Home from '../pages/Home'
 import Dashboard from '../pages/Dashboard/index'
 import Chat from '../pages/Chat/Chat'
-import FindTutors from '../pages/Find-Tutors/Find-Tutors'
+import FindTutors from '../pages/Find-Therapists/Find-Therapists'
 
 import PagesMaintenance from '../pages/Utility/pages-maintenance'
 import PagesComingsoon from '../pages/Utility/pages-comingsoon'
@@ -24,7 +24,7 @@ const userRoutes = [
 
 const publicRoutes = [
     { path: '/', component: Home },
-    { path: '/find-tutors', component: FindTutors },
+    { path: '/find-therapists', component: FindTutors },
 
     { path: '/pages-maintenance', component: PagesMaintenance },
     { path: '/pages-comingsoon', component: PagesComingsoon },

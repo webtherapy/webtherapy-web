@@ -8,7 +8,7 @@ import makeAnimated from 'react-select/animated'
 import avatar3 from '../../assets/images/users/avatar-3.jpg'
 import { Link } from 'react-router-dom'
 
-const FindTutors = (props) => {
+const FindTherapists = (props) => {
     const [activeTab, setactiveTab] = useState(false)
     const [selectedMulti3, setselectedMulti3] = useState(null)
 
@@ -321,4 +321,4 @@ const DropdownIndicator = (props) => {
     )
 }
 
-export default FindTutors
+export default FindTherapists

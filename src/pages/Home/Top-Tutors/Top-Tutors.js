@@ -85,8 +85,8 @@ const OurTeam = (props) => {
                     <Row>
                         <Col lg="12">
                             <div className="text-center mb-5">
-                                <div className="small-title">Tutors</div>
-                                <h4>Meet our Top Tutors</h4>
+                                <div className="small-title">Therapists</div>
+                                <h4>Meet our Top Therapists</h4>
                             </div>
                         </Col>
                     </Row>
